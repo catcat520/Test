@@ -136,6 +136,12 @@
     "message": "确定要删除此样式吗？",
     "description": "Confirmation before deleting a style"
   },
+  "confirmOK": {
+    "message": "确定"
+  },
+  "confirmCancel": {
+    "message": "取消"
+  },
   "description": {
     "message": "Stylus 是一个调整网页外观的用户样式管理器。它可让您轻松地为许多热门网站网站安装主题和皮肤。",
     "description": "Extension description"
