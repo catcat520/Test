@@ -69,7 +69,7 @@
     "description": "Heading for backup"
   },
   "backupMessage": {
-    "message": "导入大文件耗时较长，请等待通知完成。",
+    "message": "导入大文件可能耗时较长，请等待完成通知。",
     "description": "Message for backup"
   },
   "checkAllUpdates": {
@@ -408,7 +408,7 @@
     }
   },
   "stylishUnavailableForURL": {
-    "message": "(Stylus在这样的页面上不工作)",
+    "message": "（Stylus在这样的页面上不工作）",
     "description": "Note in the toolbar pop-up when on a URL Stylus can't affect"
   },
   "undo": {
@@ -416,7 +416,7 @@
     "description": "Button label"
   },
   "undoGlobal": {
-    "message": "撤销 (全局)",
+    "message": "撤销（全局）",
     "description": "CSS-beautify global Undo button label"
   },
   "updateCheckFailBadResponseCode": {
@@ -437,7 +437,7 @@
     "description": "Text that displays when an update check completed and no update is available"
   },
   "updateAllCheckSucceededNoUpdate": {
-    "message": "所有样式已是最新版本",
+    "message": "所有样式已是最新版本。",
     "description": "Text that displays when an update all check completed and no updates are available"
   },
   "updateCompleted": {
