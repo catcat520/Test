@@ -416,7 +416,7 @@
     "description": "Button label"
   },
   "undoGlobal": {
-    "message": "更新已完成。",
+    "message": "撤销 (全局)",
     "description": "CSS-beautify global Undo button label"
   },
   "updateCheckFailBadResponseCode": {
@@ -441,7 +441,7 @@
     "description": "Text that displays when an update all check completed and no updates are available"
   },
   "updateCompleted": {
-    "message": "Update completed.",
+    "message": "更新已完成。",
     "description": "Text that displays when an update completed"
   },
   "writeStyleFor": {
