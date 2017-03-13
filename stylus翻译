@@ -1,6 +1,6 @@
 {
   "addStyleLabel": {
-    "message": "Write new style",
+    "message": "编写新样式",
     "description": "Label for the button to go to the add style page"
   },
   "addStyleTitle": {
@@ -73,7 +73,7 @@
     "description": "Message for backup"
   },
   "checkAllUpdates": {
-    "message": "Check all styles for updates",
+    "message": "检查所有样式更新",
     "description": "Label for the button to check all styles for updates"
   },
   "checkForUpdate": {
@@ -85,11 +85,11 @@
     "description": "Text to display when checking a style for an update"
   },
   "cm_indentWithTabs": {
-    "message": "Use tabs with smart indentation",
+    "message": "启用带智能缩进的标签页",
     "description": "Label for the checkbox controlling tabs with smart indentation option for the style editor."
   },
   "cm_keyMap": {
-    "message": "Keymap",
+    "message": "键盘映射",
     "description": "Label for the drop-down list controlling the keymap for the style editor."
   },
   "cm_lineWrapping": {
@@ -105,11 +105,11 @@
     "description": "Label for the text box controlling tab size option for the style editor."
   },
   "cm_theme": {
-    "message": "Theme",
+    "message": "主题",
     "description": "Label for the style editor's CSS theme."
   },
   "confirmNo": {
-    "message": "No",
+    "message": "否",
     "description": "'No' button in a confirm dialog"
   },
   "confirmStop": {
@@ -129,7 +129,7 @@
     "description": "Default CodeMirror CSS theme option on the edit style page"
   },
   "deleteStyleLabel": {
-    "message": "Delete",
+    "message": "删除",
     "description": "Label for the button to delete a style"
   },
   "deleteStyleConfirm": {
@@ -137,7 +137,7 @@
     "description": "Confirmation before deleting a style"
   },
   "description": {
-    "message": "Restyle the web with Stylus, a user styles manager. Stylus lets you easily install themes and skins for many popular sites.",
+    "message": "Stylus 是一个调整网页外观的用户样式管理器。它可让您轻松地为许多热门网站网站安装主题和皮肤。",
     "description": "Extension description"
   },
   "openStylesManager": {
@@ -153,7 +153,7 @@
     "description": "Label for the button to disable a style"
   },
   "editGotoLine": {
-    "message": "Goto line (or line:col)",
+    "message": "跳转至行（或行:列）",
     "description": "Go to line or line:column on Ctrl-G in style code editor"
   },
   "editorStylesButton": {
@@ -165,7 +165,7 @@
     "description": "Title of the page for editing styles"
   },
   "editStyleLabel": {
-    "message": "Edit",
+    "message": "修改",
     "description": "Label for the button to go to the edit style page"
   },
   "editStyleTitle": {
@@ -198,7 +198,7 @@
     "description": "Placeholder text of inputbox in keymap help popup on the edit style page. Must be very short"
   },
   "helpKeyMapCommand": {
-    "message": "Type a command name",
+    "message": "输入命令名称",
     "description": "Placeholder text of inputbox in keymap help popup on the edit style page. Must be very short"
   },
   "importLabel": {
@@ -230,7 +230,7 @@
     "description": "Label for the CSSLint issues block on the style edit page"
   },
   "issuesHelp": {
-    "message": "The issues found by <a href='https:\/\/github.com\/CSSLint\/csslint' target='_blank'>CSSLint<\/a> with these rules enabled:",
+    "message": "The issues found by <a href='https:\/\/github.com\/CSSLint\/csslint' target='_blank'>CSSLint<\/a> 在已启用的这些规则中找到问题：",
     "description": "Help popup message for the CSSLint issues block on the style edit page"
   },
   "manageFilters": {
@@ -242,7 +242,7 @@
     "description": "Heading for the manage page"
   },
   "manageOnlyEnabled": {
-    "message": "Only enabled styles",
+    "message": "仅已启用的样式",
     "description": "Checkbox to show only enabled styles"
   },
   "manageOnlyEdited": {
@@ -310,7 +310,7 @@
     "description": "Label before the replace input field in the editor shown on 'replaceAll' hotkey"
   },
   "replaceWith": {
-    "message": "Replace with",
+    "message": "替换用",
     "description": "Label before the replace-with input field in the editor shown on Ctrl-H etc."
   },
   "search": {
@@ -412,7 +412,7 @@
     "description": "Note in the toolbar pop-up when on a URL Stylus can't affect"
   },
   "undo": {
-    "message": "Undo",
+    "message": "撤销",
     "description": "Button label"
   },
   "undoGlobal": {
