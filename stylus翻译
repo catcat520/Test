@@ -65,11 +65,11 @@
     "description": "Label for the button to apply all detected updates"
   },
   "backupButtons": {
-    "message": "Backup",
+    "message": "备份",
     "description": "Heading for backup"
   },
   "backupMessage": {
-    "message": "Larger imported files may take a moment. Wait for a browser notification to appear.",
+    "message": "导入大文件耗时较长，请等待通知完成。",
     "description": "Message for backup"
   },
   "checkAllUpdates": {
@@ -141,7 +141,7 @@
     "description": "Extension description"
   },
   "openStylesManager": {
-    "message": "Open styles manager",
+    "message": "打开样式管理器",
     "description": "Label for the style maanger opener in the browser action context menu."
   },
   "disableAllStyles": {
@@ -157,7 +157,7 @@
     "description": "Go to line or line:column on Ctrl-G in style code editor"
   },
   "editorStylesButton": {
-    "message": "Find editor styles",
+    "message": "查找编辑器样式",
     "description": "Find styles for the editor"
   },
   "editStyleHeading": {
@@ -270,19 +270,19 @@
     "description": "Link to open the manage page."
   },
   "openOptionsManage": {
-    "message": "Options UI",
+    "message": "设置用户界面",
     "description": "Go to Options UI"
   },
   "openOptionsPopup": {
-    "message": "Options",
+    "message": "设置用户界面",
     "description": "Go to Options UI"
   },
   "openOptionsShortcuts": {
-    "message": "Shortcuts",
+    "message": "设置快捷键",
     "description": "Go to shortcut configuration"
   },
   "openShortcutsPopup": {
-    "message": "Shortcuts",
+    "message": "设置快捷键",
     "description": "Go to shortcut configuration"
   },
   "optionsHeading": {
@@ -290,7 +290,7 @@
     "description": "Heading for options section on manage page."
   },
   "optionsSubheading": {
-    "message": "More Options",
+    "message": "附加选项",
     "description": "Subheading for options section on manage page."
   },
   "popupStylesFirst": {
@@ -453,45 +453,45 @@
     "description": "Text for link in toolbar pop-up to write a new style for the current URL"
   },
   "bckpInstStyles": {
-      "message": "Export styles"
+      "message": "导出所有样式"
   },
   "retrieveBckp": {
-      "message": "Import styles"
+      "message": "导入所有样式"
   },
   "optionsBadgeNormal": {
-    "message": "Badge background color"
+    "message": "样式计数背景颜色"
   },
   "optionsBadgeDisabled": {
-    "message": "Badge background color (when disabled)"
+    "message": "样式计数背景颜色（停用时）"
   },
   "optionsPopupWidth": {
-    "message": "Popup width (in pixels)"
+    "message": "样式管理弹出框宽度 px"
   },
   "optionsUpdateInterval": {
-    "message": "Automatically check for and install all available userstyle updates (in hrs)"
+    "message": "每 N 小时，检查所有样式更新（0 为关闭检查）"
   },
   "optionsUpdateIntervalNote": {
-    "message": "To disable the automatic userstyle update checks, set interval to zero"
+    "message": "设置为 0 则关闭样式更新检查"
   },
   "optionsCustomize": {
-    "message": "UI Customizations"
+    "message": "自定义用户界面"
   },
   "optionsActions": {
-    "message": "Actions"
+    "message": "接下来要做什么"
   },
   "optionsOpenManager": {
-    "message": "Open styles manager"
+    "message": "打开样式管理器 "
   },
   "optionsOpenManagerNote": {
-    "message": "Define a keyboard shortcut"
+    "message": "定义键盘快捷键"
   },
   "optionsCheckUpdate": {
-    "message": "Check for and install all available updates"
+    "message": "检查所有样式更新"
   },
   "optionsOpen": {
-    "message": "Open"
+    "message": "打开"
   },
   "optionsCheck": {
-    "message": "Check"
+    "message": "检查"
   }
 }
