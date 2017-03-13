@@ -4,7 +4,7 @@
     "description": "Label for the button to go to the add style page"
   },
   "addStyleTitle": {
-    "message": "Add Style",
+    "message": "添加样式",
     "description": "Title of the page for adding styles"
   },
   "appliesAdd": {
@@ -29,7 +29,7 @@
     "description": "Option to make the style apply to the entered string as a domain"
   },
   "appliesHelp": {
-    "message": "Use the 'Applies to' controls to limit what URLs the code in this section applies to.",
+    "message": "使用“应用对象”控件来限制此部分中的代码所应用到的网址。",
     "description": "Help text for 'applies to' section"
   },
   "appliesLabel": {
@@ -53,7 +53,7 @@
     "description": "Text displayed for styles that apply to all sites"
   },
   "appliesUrlOption": {
-    "message": "URL",
+    "message": "网址",
     "description": "Option to make the style apply to the entered string as a URL"
   },
   "appliesUrlPrefixOption": {
@@ -81,7 +81,7 @@
     "description": "Label for the button to check a single style for an update"
   },
   "checkingForUpdate": {
-    "message": "Checking...",
+    "message": "正在检查更新...",
     "description": "Text to display when checking a style for an update"
   },
   "cm_indentWithTabs": {
@@ -97,7 +97,7 @@
     "description": "Label for the checkbox controlling word wrap option for the style editor."
   },
   "cm_smartIndent": {
-    "message": "Use smart indentation",
+    "message": "启用智能缩进",
     "description": "Label for the checkbox controlling smart indentation option for the style editor."
   },
   "cm_tabSize": {
@@ -121,7 +121,7 @@
     "description": "'Yes' button in a confirm dialog"
   },
   "dbError": {
-    "message": "An error has occurred using the Stylus database. Would you like to visit a web page with possible solutions?",
+    "message": "应用Stylus数据库时发生了一个错误。您想要访问包含可能的解决方案的网页吗？",
     "description": "Prompt when a DB error is encountered"
   },
   "defaultTheme": {
@@ -145,7 +145,7 @@
     "description": "Label for the style maanger opener in the browser action context menu."
   },
   "disableAllStyles": {
-    "message": "Turn all styles off",
+    "message": "停用所有样式",
     "description": "Label for the checkbox that turns all enabled styles off."
   },
   "disableStyleLabel": {
@@ -161,7 +161,7 @@
     "description": "Find styles for the editor"
   },
   "editStyleHeading": {
-    "message": "Edit Style",
+    "message": "修改样式",
     "description": "Title of the page for editing styles"
   },
   "editStyleLabel": {
@@ -194,7 +194,7 @@
     "description": "Alternate text for help buttons"
   },
   "helpKeyMapHotkey": {
-    "message": "Press a hotkey",
+    "message": "按下热键",
     "description": "Placeholder text of inputbox in keymap help popup on the edit style page. Must be very short"
   },
   "helpKeyMapCommand": {
@@ -210,11 +210,11 @@
     "description": "Label for the button to import a style and append to the existing sections"
   },
   "importAppendTooltip": {
-    "message": "Append the imported style to current style",
+    "message": "追加已导入样式到当前样式",
     "description": "Tooltip for the button to import a style and append to the existing sections"
   },
   "importReplaceLabel": {
-    "message": "Overwrite style",
+    "message": "覆盖样式",
     "description": "Label for the button to import and overwrite current style"
   },
   "importReplaceTooltip": {
@@ -306,7 +306,7 @@
     "description": "Label before the replace input field in the editor shown on Ctrl-H"
   },
   "replaceAll": {
-    "message": "Replace all",
+    "message": "全部替换",
     "description": "Label before the replace input field in the editor shown on 'replaceAll' hotkey"
   },
   "replaceWith": {
@@ -330,7 +330,7 @@
     "description": "Label for the button to add a section"
   },
   "sectionCode": {
-    "message": "Code",
+    "message": "代码",
     "description": "Label for the code for a section"
   },
   "sectionHelp": {
@@ -416,7 +416,7 @@
     "description": "Button label"
   },
   "undoGlobal": {
-    "message": "Undo (global)",
+    "message": "更新已完成。",
     "description": "CSS-beautify global Undo button label"
   },
   "updateCheckFailBadResponseCode": {
