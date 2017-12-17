@@ -4,8 +4,8 @@
 @version 0.1.0
 @license unlicense
 
-@advanced text a_text "A Text" "SomeWords";
-@advanced color a_color "A Color" "#5675B9";
+@advanced text a_text "A Text" "sSomeWords";
+@advanced text b_text "A Text" "xSomeWords";
 @advanced dropdown a_background "Your browser" {
   fx "Firefox" <<<EOT
 background-color: red; EOT;
