@@ -5,7 +5,7 @@
 @license unlicense
 
 @advanced text a_text "A Text" "SomeWords"
-@advanced text b_text "A Color" "#ffffff";
+@advanced color a_color "A Color" #ffffff;
 @advanced dropdown a_background "Your browser" {
   fx "Firefox" <<<EOT
 background-color: red; EOT;
@@ -23,7 +23,7 @@ background-color: green; EOT;
     content: /*[[a_text]]*/;
   }
   div.message {
-    content: /*[[b_text]]*/
+    color: /*[[a_color]]*/
     /*[[a_background]]*/
     background-image: url(/*[[a_background_image]]*/);
   }
