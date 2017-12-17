@@ -5,7 +5,7 @@
 @license unlicense
 
 @advanced text a_text "A Text" "SomeWords"
-@advanced color a_color "A Color" "#111111";
+@advanced color a_color "A Color" "#5675B9";
 @advanced dropdown a_background "Your browser" {
   fx "Firefox" <<<EOT
 background-color: red; EOT;
