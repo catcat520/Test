@@ -6,15 +6,15 @@
 
 @advanced text a_text "A Text" "SomeWords"
 @advanced color a_color "A Color" #ffffff;
-@advanced dropdown browser "Your browser" {
-	fx "Firefox" <<<EOT
-color: red; EOT;
-	cr "Chrome" <<<EOT
-color: green; EOT;
+@advanced dropdown a_background "Your browser" {
+  fx "Firefox" <<<EOT
+background-color: red; EOT;
+  cr "Chrome" <<<EOT
+background-color: green; EOT;
 }
-@advanced image background "Page background" {
-	bg_1 "Background 1" "http://example.com/example.jpg"
-	bg_2 "Background 2" "http://example.com/photo.php?id=_A_IMAGE_ID_"
+@advanced image a_background_image "Page background" {
+  bg_1 "Background 1" "http://example.com/example.jpg"
+  bg_2 "Background 2" "http://example.com/photo.php?id=_A_IMAGE_ID_"
 }
 ==/UserStyle== */
 
